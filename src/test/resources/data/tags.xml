@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <TAGS TAG_ID="2" TAG_NAME="UK"/>
+  <TAGS TAG_ID="3" TAG_NAME="BY"/>
+  <TAGS TAG_ID="1" TAG_NAME="USA"/>
+  <NEWS_TAG NEWS_TAG_ID="1" NEWS_ID="5" TAG_ID="1"/>
+  <NEWS_TAG NEWS_TAG_ID="2" NEWS_ID="5" TAG_ID="2"/>
+</dataset>
